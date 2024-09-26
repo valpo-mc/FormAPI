@@ -1,0 +1,6 @@
+name: FormAPI
+main: com.denzelcode.form.FormAPI
+version: ${project.version}
+api: 2.0.0
+author: Denzel Code
+description: ${project.description}
